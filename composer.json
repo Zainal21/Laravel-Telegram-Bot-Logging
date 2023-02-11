@@ -1,0 +1,31 @@
+{
+  "name": "muhamadzain/laravel-telegram-log",
+  "type": "library",
+  "description": "laravel log record and send into Telegram Chat Bot",
+  "authors": [
+    {
+      "name": "Muhamad Zainal Arifin",
+      "email": "muhamad.arifin@djelas.id"
+    }
+  ],
+  "require": {
+    "php": "^7.4|^8.0",
+    "illuminate/support": "^9.45",
+    "monolog/monolog": "^2.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "TelegramLog\\": "src"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "extra": {
+    "laravel": {
+      "providers": [
+        "TelegramLog\\TelegramServiceProvider"
+      ]
+    }
+  }
+}
