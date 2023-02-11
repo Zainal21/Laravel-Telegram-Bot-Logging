@@ -1,11 +1,5 @@
 <h2 align="center">Laravel Telegram Bot Logging</h2>
-  <p align="center">Send logs to Telegram chat via Telegram bot. Inspired by <a href="https://github.com/grkamil/laravel-telegram-logging"> https://github.com/grkamil/laravel-telegram-logging</a></p>
-
-<h4 align="center">
-  <a href="mailto:muhamadzaindev@gmail.com">Contact Me</a>
-  <span> · </span>
-  <a href="https://muhammadzain.site/">Blog</a>
-</h4>
+<p align="center">Send logs to Telegram chat via Telegram bot. Inspired by <a href="https://github.com/grkamil/laravel-telegram-logging"> https://github.com/grkamil/laravel-telegram-logging</a></p>
 
 ## Requirement
 
