@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-composer require muhamadzain/laravel-telegram-bot-logging
+composer require muhamadzain/laravel-telegram-log
 ```
 
 ## Configurations
